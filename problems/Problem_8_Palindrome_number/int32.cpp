@@ -17,3 +17,4 @@ public:
         return x == reversedHalf || x == reversedHalf / 10;
     }
 };
+
